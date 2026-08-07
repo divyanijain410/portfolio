@@ -1,0 +1,5 @@
+Shipping Mode,n_orders,late_rate_pct,avg_delay_days
+First Class,27814,95.32,1.0
+Second Class,35216,76.63,1.99
+Same Day,9737,45.74,0.48
+Standard Class,107752,38.07,-0.0
